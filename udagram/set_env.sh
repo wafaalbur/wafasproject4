@@ -5,6 +5,7 @@ export POSTGRES_PASSWORD=12345678
 export POSTGRES_HOST=database-1.cqleum5ssiv6.us-east-1.rds.amazonaws.com
 export POSTGRES_DB=postgres
 
+export AWS_DEFULT_REGION=us-east-1 
 export AWS_BUCKET=arn:arn:aws:s3:::wafasbucket
 export AWS_REGION=us-east-1 
 export AWS_PROFILE=default
