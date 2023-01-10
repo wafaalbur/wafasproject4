@@ -92,7 +92,7 @@ jobs:
       - run:
           name: API Deploy
           command: |
-            npm run api:deploy       
+            npm run deploy       
             
 workflows:
   udagram:
